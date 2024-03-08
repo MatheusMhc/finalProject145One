@@ -1,0 +1,17 @@
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\bin\Debug\net6.0-windows\finalProject145.exe
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\bin\Debug\net6.0-windows\finalProject145.deps.json
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\bin\Debug\net6.0-windows\finalProject145.runtimeconfig.json
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\bin\Debug\net6.0-windows\finalProject145.dll
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\bin\Debug\net6.0-windows\finalProject145.pdb
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.csproj.AssemblyReference.cache
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.Form1.resources
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.csproj.GenerateResource.cache
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.AssemblyInfoInputs.cache
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.AssemblyInfo.cs
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.dll
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\refint\finalProject145.dll
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.pdb
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\finalProject145.genruntimeconfig.cache
+C:\Users\Matheus.daSilva\source\repos\finalProject145\finalProject145\obj\Debug\net6.0-windows\ref\finalProject145.dll
